@@ -1,0 +1,31 @@
+2018/12/04 23:24:42 - worker - DEBUG - logger from cam_stream3
+2018/12/04 23:24:42 - worker - DEBUG - Starting stream cam_stream3 with commandline ['/usr/bin/omxplayer', '--live', '--timeout', '60', '--aidx', '-1', '-o', 'hdmi', 'rtsp://184.72.239.149:554/vod/mp4:BigBuckBunny_175k.mov', '--win', '0 492 912 984']
+2018/12/04 23:35:02 - worker - DEBUG - Starting stream cam_stream3 with commandline ['/usr/bin/omxplayer', '--live', '--timeout', '60', '--aidx', '-1', '-o', 'hdmi', 'rtsp://184.72.239.149:554/vod/mp4:BigBuckBunny_175k.mov', '--win', '0 492 912 984']
+2018/12/04 23:35:12 - worker - INFO - Trying to restartcam_stream3 attempts:1
+2018/12/04 23:41:54 - worker - INFO - This process was sigtermed
+2018/12/04 23:41:54 - worker - INFO - This process was sigtermed
+2018/12/04 23:41:54 - worker - INFO - This stream has been stopped
+2018/12/04 23:41:57 - worker - DEBUG - logger from cam_stream3
+2018/12/04 23:41:57 - worker - DEBUG - Starting stream cam_stream3 with commandline ['/usr/bin/omxplayer', '--live', '--timeout', '60', '--aidx', '-1', '-o', 'hdmi', 'rtsp://184.72.239.149:554/vod/mp4:BigBuckBunny_175k.mov', '--win', '0 492 912 984']
+2018/12/04 23:42:08 - worker - INFO - This process was sigtermed
+2018/12/04 23:42:08 - worker - INFO - This stream has been stopped
+2018/12/04 23:42:24 - worker - DEBUG - logger from cam_stream3
+2018/12/04 23:42:24 - worker - DEBUG - Starting stream cam_stream3 with commandline ['/usr/bin/omxplayer', '--live', '--timeout', '60', '--aidx', '-1', '-o', 'hdmi', 'rtsp://184.72.239.149:554/vod/mp4:BigBuckBunny_175k.mov', '--win', '0 540 960 1080']
+2018/12/04 23:47:41 - worker - INFO - This process was sigtermed
+2018/12/04 23:47:41 - worker - INFO - This process was sigtermed
+2018/12/04 23:47:41 - worker - INFO - This stream has been stopped
+2018/12/04 23:47:46 - worker - DEBUG - logger from cam_stream3
+2018/12/04 23:47:46 - worker - DEBUG - Starting stream cam_stream3 with commandline ['/usr/bin/omxplayer', '--live', '--timeout', '60', '--aidx', '-1', '-o', 'hdmi', 'rtsp://184.72.239.149:554/vod/mp4:BigBuckBunny_175k.mov', '--win', '0 540 960 1080']
+2018/12/04 23:48:54 - worker - INFO - This process was sigtermed
+2018/12/04 23:48:54 - worker - INFO - This stream has been stopped
+2018/12/05 00:15:26 - worker - DEBUG - logger from cam_stream3
+2018/12/05 00:15:26 - worker - DEBUG - Starting stream cam_stream3 with commandline ['/usr/bin/omxplayer', '--live', '--timeout', '60', '--aidx', '-1', '-o', 'hdmi', 'https://ocko-live.ssl.cdn.cra.cz:443/channels/ocko/playlist/cze/live_hq.m3u8', '--win', '0 540 960 1080']
+2018/12/05 00:16:36 - worker - INFO - Ctrl C was pressed
+2018/12/05 00:16:36 - worker - INFO - This stream has been stopped
+2018/12/05 00:16:37 - worker - DEBUG - logger from cam_stream3
+2018/12/05 00:16:37 - worker - DEBUG - Starting stream cam_stream3 with commandline ['/usr/bin/omxplayer', '--live', '--timeout', '60', '--aidx', '-1', '-o', 'hdmi', 'https://ocko-live.ssl.cdn.cra.cz:443/channels/ocko/playlist/cze/live_hq.m3u8', '--win', '0 540 960 1080']
+2018/12/05 00:16:41 - worker - INFO - This process was sigtermed
+2018/12/05 00:16:41 - worker - INFO - This process was sigtermed
+2018/12/05 00:16:41 - worker - INFO - This stream has been stopped
+2018/12/05 00:16:44 - worker - DEBUG - logger from cam_stream3
+2018/12/05 00:16:44 - worker - DEBUG - Starting stream cam_stream3 with commandline ['/usr/bin/omxplayer', '--live', '--timeout', '60', '--aidx', '-1', '-o', 'hdmi', 'https://ocko-live.ssl.cdn.cra.cz:443/channels/ocko/playlist/cze/live_hq.m3u8', '--win', '0 540 960 1080']

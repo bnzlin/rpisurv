@@ -1,0 +1,10 @@
+2018/12/05 00:15:26 - worker - DEBUG - logger from cam_stream4
+2018/12/05 00:15:26 - worker - DEBUG - Starting stream cam_stream4 with commandline ['/usr/bin/omxplayer', '--live', '--timeout', '60', '--aidx', '-1', '-o', 'hdmi', 'https://ocko-live.ssl.cdn.cra.cz:443/channels/ocko/playlist/cze/live_hq.m3u8', '--win', '960 540 1920 1080']
+2018/12/05 00:16:36 - worker - INFO - Ctrl C was pressed
+2018/12/05 00:16:36 - worker - INFO - This stream has been stopped
+2018/12/05 00:16:37 - worker - DEBUG - logger from cam_stream4
+2018/12/05 00:16:37 - worker - DEBUG - Starting stream cam_stream4 with commandline ['/usr/bin/omxplayer', '--live', '--timeout', '60', '--aidx', '-1', '-o', 'hdmi', 'https://slagrtv-live-hls.ssl.cdn.cra.cz:443/channels/slagrtv/playlist/cze/live_hq.m3u8', '--win', '960 540 1920 1080']
+2018/12/05 00:16:41 - worker - INFO - This process was sigtermed
+2018/12/05 00:16:41 - worker - INFO - This stream has been stopped
+2018/12/05 00:16:44 - worker - DEBUG - logger from cam_stream4
+2018/12/05 00:16:44 - worker - DEBUG - Starting stream cam_stream4 with commandline ['/usr/bin/omxplayer', '--live', '--timeout', '60', '--aidx', '-1', '-o', 'hdmi', 'https://slagrtv-live-hls.ssl.cdn.cra.cz:443/channels/slagrtv/playlist/cze/live_hq.m3u8', '--win', '960 540 1920 1080']
